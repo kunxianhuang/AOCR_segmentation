@@ -17,3 +17,4 @@ For AOCR competition in kaggle (website:https://www.kaggle.com/competitions/aocr
 # Testing
 * seg_test.py: Predict testing sample
 * test_submit.py: Read predicted results and write a txt file to submit results.
+* test_submitv2.py: Read predicted results and write a txt file to submit results and fix discontinuity of results by looking neighboring slices.
